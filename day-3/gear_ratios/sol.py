@@ -1,6 +1,3 @@
-import sys
-import numpy
-
 grid = open("input").read().splitlines()
 
 adj_number_index1 = set()
