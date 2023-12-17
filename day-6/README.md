@@ -1,4 +1,5 @@
 # Wait For It
+
 <https://adventofcode.com/2023/day/6>
 
 As part of signing up, you get a sheet of paper (your puzzle input) that lists the time allowed for each race and also the best distance ever recorded in that race. To guarantee you win the grand prize, you need to make sure you go farther in each race than the current record holder.
